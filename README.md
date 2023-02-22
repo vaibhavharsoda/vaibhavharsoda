@@ -2,7 +2,7 @@
 
 ## Skills
 
-- #### *Strong experience in Laravel, a PHP framework for web application development.*
+- #### *:rocket: Strong experience in Laravel, a PHP framework for web application development.*
 - #### *Proficient in Vue.js, a JavaScript framework for building user interfaces.*
 - #### *Knowledge of HTML, CSS, and JavaScript for front-end development.*
 - #### *Experience with RESTful API design and integration.*
