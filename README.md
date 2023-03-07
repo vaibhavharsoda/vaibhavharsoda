@@ -1,4 +1,4 @@
-### *Hello, I'm a full-stack developer with experience in Laravel, Vue.js, and a growing interest in Flutter. I have a passion for creating beautiful, functional, and scalable web applications that deliver a great user experience.*
+### *Hello, I'm a full-stack developer with experience in Laravel, Vue.js, and a growing interest in Web3. I have a passion for creating beautiful, functional, and scalable web applications that deliver a great user experience.*
 
 ## Skills
 
