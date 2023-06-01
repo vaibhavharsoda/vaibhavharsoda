@@ -4,4 +4,4 @@
   - 💞️ I’m looking to collaborate on Laravel community
   - 👀 I’m interested in Flutter & Web3
   - 🧑🏻‍💻 I always work on a project
-  - 🤔 How to reach me: [Linkedin](https://www.linkedin.com/in/vaibhavh) [Email](mailto:vaibhavharsoda@yahoo.com)
+  - 🤔 How to reach me: [Linkedin](https://www.linkedin.com/in/vaibhavh) [Email](mailto:vaibhavharsoda77@gmail.com)
