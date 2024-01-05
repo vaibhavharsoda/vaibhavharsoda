@@ -1,5 +1,6 @@
 # Hello, I'm Vaibhav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
+![](https://komarev.com/ghpvc/?username=vaibhavharsoda)
   - 💞️ I’m full stack developer.
   - 🤔 How to reach me: [Linkedin](https://www.linkedin.com/in/vaibhavh) [Email](mailto:vaibhavharsoda77@gmail.com)
 
